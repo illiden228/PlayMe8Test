@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: InterfaceAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a922237fa4b27444d91e3162f6f4be1d, type: 3}
+    totalSpriteSurfaceArea: 243769
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 631f3d807886ce948819e803a8ee88b3, type: 3}
+  - {fileID: 21300000, guid: f3718971d599f754a97c072a3b694cb4, type: 3}
+  - {fileID: 21300000, guid: 9d3992c17318c2745aeffec94e4d199f, type: 3}
+  - {fileID: 21300000, guid: f095de52ae835f5408371035573a3819, type: 3}
+  - {fileID: 21300000, guid: 432c27a29027bc442bba1da16f3cfe3e, type: 3}
+  - {fileID: 21300000, guid: 117532b2142917f40a8ddface56f5126, type: 3}
+  - {fileID: 21300000, guid: 83a5ac433c681ac42ab405f35406c89c, type: 3}
+  - {fileID: 21300000, guid: 8785a40446a027643bef3b698ff962ed, type: 3}
+  - {fileID: 21300000, guid: 60057804826bfdc4f8a7ac55afbd431c, type: 3}
+  - {fileID: 21300000, guid: d97f0474750c5e34bb7e5960bb4984a3, type: 3}
+  - {fileID: 21300000, guid: 85939194c9447c94ea74b041088584ee, type: 3}
+  - {fileID: 21300000, guid: 95b269941581c57419115f1fe41562a9, type: 3}
+  - {fileID: 21300000, guid: ce431b762c36800459d8c27d6d40b09d, type: 3}
+  - {fileID: 21300000, guid: 6bbba6471a42ba443904a49dee58bf32, type: 3}
+  - {fileID: 21300000, guid: b3cd8a8842f3bc24a958c51a00950529, type: 3}
+  - {fileID: 21300000, guid: 0a5fc398eedee8049bc330251d688d23, type: 3}
+  - {fileID: 21300000, guid: 85c6c7fabd80c934a9de5c38bcdfccf2, type: 3}
+  - {fileID: 21300000, guid: 0407911b1a024794eba3ee15f21302ff, type: 3}
+  - {fileID: 21300000, guid: 1e2c594b64eb7bf45ac3385704c148c0, type: 3}
+  - {fileID: 21300000, guid: 5b8cbd8b712762a428ee26df279f3397, type: 3}
+  - {fileID: 21300000, guid: c93e4dacaa7072a4daa96d127ca7f2f6, type: 3}
+  - {fileID: 21300000, guid: 31347abc10c6ca54ebf0e7246603a645, type: 3}
+  - {fileID: 21300000, guid: c0b57a0e132d9274796d16afa8529ad0, type: 3}
+  - {fileID: 21300000, guid: 2fe30c3ed2e342f4fb09106714729dde, type: 3}
+  - {fileID: 21300000, guid: 5a6dddcf47e9d0e44aad9c1c6f26e94e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - teletape_back2_2
+  - arrow_teletape
+  - green_batton_teletape
+  - tv_icon
+  - teletape_back7_2
+  - lines
+  - circle
+  - teletape_back_inn 2
+  - line
+  - teletape_back3_2
+  - teletape_back4_2
+  - frame_back_corner
+  - teletape_back8_2
+  - caret
+  - frame_back_dot
+  - close_button
+  - corner
+  - teletape_back_inn
+  - frame_back_dot_hor
+  - Exp
+  - teletape_back10_2
+  - shadow_back
+  - teletape_back_2
+  - frame_back
+  - teletape_back9_2
+  m_RenderDataMap: {}
+  m_Tag: InterfaceAtlas
+  m_IsVariant: 0
